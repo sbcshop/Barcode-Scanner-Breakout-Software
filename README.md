@@ -9,3 +9,5 @@ The module interfaces over USB Serial and TTL UART and it can operate in several
 Configure the communication modes by scanning barcodes or you can send serial commands from the Scan
 
 <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/breakout2.png />
+
+# USB Setup 
