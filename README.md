@@ -8,4 +8,4 @@ The DE2120 module also has two LEDs:one for illumination and one to project the 
 The module interfaces over USB Serial and TTL UART and it can operate in several modes including USB Keyboard (default), USB COM, USB HID and TTL.
 Configure the communication modes by scanning barcodes or you can send serial commands from the Scan
 
-
+<img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/breakout2.png />
