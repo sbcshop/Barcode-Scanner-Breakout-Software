@@ -12,6 +12,8 @@ Configure the communication modes by scanning barcodes or you can send serial co
 
 # USB Setup 
 ## USB-COM Mode
+  When the bar coder uses USB communication interface, but the host application program receives data by serial communication, it can be set to USB virtual serial communication
+  mode. This function needs to install the corresponding driver on the host.
   * Plug barcode scanner breakout to a computer or laptop  via a USB cable. Scan the USB-COM mode barcode,mention below (the module is defaults to USB-Keyboard mode)
   
     <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_com.JPG />
@@ -20,4 +22,6 @@ Configure the communication modes by scanning barcodes or you can send serial co
 In this mode of USB interface, there are two kinds of communication protocols to choose. The default mode is USB-KBW, that is, USB keyboard mode, to enable this mode, you need to scan below barcode. using this mode if you open notepad,word amd cmd etc, then scan barcode, barcode is display in these tools
 
    <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_mode.JPG />
+   
+##
 
