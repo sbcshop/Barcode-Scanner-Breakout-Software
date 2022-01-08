@@ -23,6 +23,7 @@ There are two types of communication protocols to choose from when using the USB
    <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_mode.JPG />
    
 ## UART Mode (TTL/RS232)
-The serial communication interface is a popular approach to connect barcode and host devices,like PCs and POS systems.To ensure data transmission accuracy when using the barcode scanner's serial communication interface, the barcode scanner and the host device must be completely matched in the serial communication protocol's setup parameters.
+The serial communication interface is a popular approach to connect barcode and host devices,like PCs and POS systems.To ensure data transmission accuracy when using the barcode scanner's serial communication interface, the barcode scanner and the host device must be completely matched in the serial communication protocol's setup parameters.To enable this mode you need to scan below barcode
 
+   <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/uart.JPG />
 
