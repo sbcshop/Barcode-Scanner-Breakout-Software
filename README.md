@@ -14,3 +14,8 @@ Configure the communication modes by scanning barcodes or you can send serial co
 Plug barcode scanner breakout to a computer or laptop  via a USB cable. Scan the USB-COM mode barcode,mention below (the module is defaults to USB-Keyboard mode)
 
 <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_com.JPG />
+
+## USB-KBW Mode
+In the mode of USB interface, there are two kinds of communication protocols to choose.
+The default mode is USB-KBW, that is, USB keyboard mode, which simulates USB keyboard
+to transmit data to the host
