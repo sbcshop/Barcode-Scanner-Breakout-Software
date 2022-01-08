@@ -18,5 +18,6 @@ Configure the communication modes by scanning barcodes or you can send serial co
 
 ## USB-KBW Mode
 In the mode of USB interface, there are two kinds of communication protocols to choose. The default mode is USB-KBW, that is, USB keyboard mode, to enable this mode, you need to scan below barcode 
+
 <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_mode.JPG />
 
