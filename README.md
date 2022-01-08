@@ -20,7 +20,7 @@ Configure the communication modes by scanning barcodes or you can send serial co
 ## USB-KBW Mode
 There are two types of communication protocols to choose from when using the USB interface. The default mode is USB-KBW, which simulates a USB keyboard for data transmission to the host. to enable this mode, you need to scan below barcode. using this mode if you open notepad,word amd cmd etc, scan barcode, barcode is display in these tools
 
-   <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_mode.JPG />
+   <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/usb_key.JPG />
    
 ## UART Mode (TTL/RS232)
 The serial communication interface is a popular approach to connect barcode and host devices,like PCs and POS systems.To ensure data transmission accuracy when using the barcode scanner's serial communication interface, the barcode scanner and the host device must be completely matched in the serial communication protocol's setup parameters.To enable this mode you need to scan below barcode
