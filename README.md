@@ -11,3 +11,4 @@ Configure the communication modes by scanning barcodes or you can send serial co
 <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/breakout2.png />
 
 # USB Setup 
+Plug barcode scanner breakout to a computer or laptop  via a USB cable. Scan the USB-COM mode barcode,mention below (the module is defaults to USB-Keyboard mode)
