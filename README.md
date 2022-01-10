@@ -27,3 +27,4 @@ The serial communication interface is a popular approach to connect barcode and 
 
    <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/uart.JPG />
 
+### <a href="https://learn.sb-components.co.uk/Barcode-Scanner-Breakout" > Barcode Scanner Breakout Wiki Portal </a>
