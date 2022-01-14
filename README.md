@@ -26,5 +26,10 @@ There are two types of communication protocols to choose from when using the USB
 The serial communication interface is a popular approach to connect barcode and host devices,like PCs and POS systems.To ensure data transmission accuracy when using the barcode scanner's serial communication interface, the barcode scanner and the host device must be completely matched in the serial communication protocol's setup parameters.To enable this mode you need to scan below barcode
 
    <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/uart.JPG />
+   
+   <img src= https://github.com/sbcshop/Barcode-Scanner-Breakout/blob/main/images/img_.JPG /> 
+
+  
+  
 
 ### <a href="https://learn.sb-components.co.uk/Barcode-Scanner-Breakout" > Barcode Scanner Breakout Wiki Portal </a>
