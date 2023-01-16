@@ -34,6 +34,14 @@ The serial communication interface is a popular approach to connect barcode and 
 
 ### <a href="https://learn.sb-components.co.uk/Barcode-Scanner-Breakout" > Barcode Scanner Breakout Wiki Portal </a>
 
+ ## Documentation
+
+* [Barcode Scanner Breakout Hardware ]()
+* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 
 ## Related Products
